@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+    "name": "evernote.hunger-valley.com",
+    "script": "npm",
+    "args": "start"
+    }
+  ]
+}
